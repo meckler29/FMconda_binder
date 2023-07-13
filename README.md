@@ -1,12 +1,12 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meckler29/FMconda_binder/py_lin_mod_notebook))
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meckler29/FMconda_binder/py_lin_mod_script))
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-(https://mybinder.org/v2/gh/meckler29/FMconda_binder/py_lin_mod_notebook)
+(https://mybinder.org/v2/gh/meckler29/FMconda_binder/py_lin_mod_script)
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
